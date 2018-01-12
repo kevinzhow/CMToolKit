@@ -26,26 +26,21 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 
     <!-- Any details about this particular release -->
-    <releaseNotes>Bug fixes and performance improvements</releaseNotes>
+    <releaseNotes>Release CMImage</releaseNotes>
 
     <!-- The description can be used in package manager UI. Note that the
             nuget.org gallery uses information you add in the portal. -->
-    <description>Core utility functions for web applications</description>
+    <description>Ability to use CMImage to merge NSImage;</description>
 
     <!-- Copyright information -->
-    <copyright>Copyright ©2016 Contoso Corporation</copyright>
+    <copyright>Copyright ©2018 kevinzhow</copyright>
 
     <!-- Tags appear in the gallery and can be used for tag searches -->
-    <tags>web utility http json url parsing</tags>
+    <tags>NSImage macOS Xamarin</tags>
 
     <!-- Dependencies are automatically installed when the package is installed -->
     <dependencies>
         <dependency id="Newtonsoft.Json" version="9.0" />
     </dependencies>
     </metadata>
-
-    <!-- A readme.txt to display when the package is installed -->
-    <files>
-        <file src="readme.txt" target="" />
-    </files>
 </package>
