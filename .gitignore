@@ -39,4 +39,4 @@ Thumbs.db
 # dotCover
 *.dotCover
 *.nupkg
-.vs/CMToolKit/xs/UserPrefs.xml
+.vs/
