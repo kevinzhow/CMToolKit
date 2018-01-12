@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CMImage/CMImage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CMImage/MyClass.cs">
     <Files>
-      <File FileName="CMImage/CMImage.cs" Line="11" Column="6" />
+      <File FileName="CMImage/MyClass.cs" Line="9" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
