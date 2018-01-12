@@ -1,7 +1,7 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CMImage/MyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CMImage/CMImage.cs">
     <Files>
-      <File FileName="CMImage/MyClass.cs" Line="9" Column="2" />
+      <File FileName="CMImage/CMImage.cs" Line="11" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
